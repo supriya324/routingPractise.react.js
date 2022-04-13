@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.heading {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image1 {
+  width: 250px;
+  height: 250px;
+}

@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+
+.head {
+  display: flex;
+  justify-content: space-between;
+}
+.head-container {
+  display: flex;
+}
+.link-item {
+  list-style-type: none;
+}
+.header-image {
+  width: 70px;
+  height: 70px;
+  margin-right: 8px;
+  padding: 8px;
+}
+
+.route-link {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 16px;
+}
+.header-container {
+  display: flex;
+}
